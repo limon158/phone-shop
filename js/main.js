@@ -119,7 +119,7 @@ const displayPhoneDetails = data => {
     </div>
 </div>`
     
-    console.log(data);
+    // console.log(data);
 }
 
 
